@@ -1,0 +1,36 @@
+/* CSS Document */
+
+.range{margin: 0 auto;
+		width:100%;
+		justify-content:center;
+		
+}
+
+.button{border:0px;
+		background-color:#23728F;
+		color:white;
+		font-size:13pt;
+		width:100px;
+		height:40px;
+		border-radius:20px;
+		display:flex;
+		justify-content: center;
+}
+.button:hover{transition:750ms;
+				background:#099;
+				font-weight:bold;
+				
+	
+}
+
+.wrap{padding:20px;
+	display: flex;
+    justify-content: center;
+
+}
+
+.wrap_button{padding:20px;
+	display: flex;
+    justify-content: center;
+}
+
